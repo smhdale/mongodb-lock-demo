@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-lock-demo",
+  "version": "1.0.0",
+  "description": "A simple lock demo for MongoDB & Mongoose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.8.9",
+    "node-schedule": "^1.3.2"
+  }
+}
